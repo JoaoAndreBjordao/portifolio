@@ -97,7 +97,7 @@ font-family: 'Krona One', sans-serif;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria); 
     font-weight: 600;   
-    border: 2px solid blue;
+    border: 2px solid var(--cor-secundaria);
     display: flex;
     justify-content:center ;
     gap: 16px;
