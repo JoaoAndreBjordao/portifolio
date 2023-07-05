@@ -154,3 +154,17 @@ font-family: 'Krona One', sans-serif;
         font-size: 1.2rem;
     }
 }
+@media(max-width:370px){
+    .apresentacao__links__links > img{
+        width: 20%;
+    }
+    .apresentacao__links__links{
+        gap: 5px;
+    }
+    .rodape{
+        padding: 10px;
+    }
+    .rodape>p{
+        font-size: 1rem;
+    }
+}
