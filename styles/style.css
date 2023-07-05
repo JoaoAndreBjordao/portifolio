@@ -134,3 +134,23 @@ font-family: 'Krona One', sans-serif;
         width: auto;
     }
 }
+
+@media(max-width: 450px){
+    .apresentacao__links__links{
+        font-size: 1rem;
+        padding: 5px 0;
+        align-items: center;
+    }
+    .Imagem__apresentacao{
+        width: 80%;
+    }
+    .apresentacao__conteudo__Titulo{
+        font-size: 2rem;
+    }
+    .apresentacao__conteudo{
+        width: 80%;
+    }
+    .cabeçalho__menu__links{
+        font-size: 1.2rem;
+    }
+}
